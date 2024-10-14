@@ -17,13 +17,10 @@ layout: default
         <h1 class="post-title">
           {{ site.first_name }} {{ site.last_name }}
         </h1>
-        <p class="desc">{{ page.subtitle }}</p>
-        <p class="post-title">
-          <br>{{ site.current_status }}
-          <br>{{ site.affiliation }}
-          <br>{{ site.office }}
-          <br>{{ site.email_contact }}
-        </p>
+        <h2 class="post-title">{{ site.current_status }}</h2>
+        <h2 class="post-title">{{ site.affiliation }}</h2>
+        <h2 class="post-title">{{ site.office }}</h2>
+        <h2 class="post-title">{{ site.email_contact }}</h2>
         <div class="contact-icons mt-2">
           <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
           <span class="divider" style="margin: 0 5px;"></span>
