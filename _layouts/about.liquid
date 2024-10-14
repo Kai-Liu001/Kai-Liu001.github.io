@@ -19,10 +19,10 @@ layout: default
         </h1>
         <p class="desc">{{ page.subtitle }}</p>
         <p class="post-title">
-          <br>{{ page.position }}
-          <br>{{ page.affiliation }}
-          <br>{{ page.office }}
-          <br>{{ "Email:{{ page.email }}" }}
+          <br>{{ site.current_status }}
+          <br>{{ site.affiliation }}
+          <br>{{ site.office }}
+          <br>{{ site.email_contact }}
         </p>
         <div class="contact-icons mt-2">
           <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
