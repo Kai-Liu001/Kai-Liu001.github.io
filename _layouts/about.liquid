@@ -9,25 +9,29 @@ layout: default
       <div class="profile float-left">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          <img src="{{ profile_image_path }}" alt="Profile image" class="img-fluid profile-img" style="width: 150px; height: 150px; object-fit: cover;">
+          <img src="{{ profile_image_path }}" alt="Profile image" class="img-fluid profile-img" style="width: 300px; height: 300px; object-fit: cover;">
         {% endif %}
       </div>
       <!-- Name and Title -->
-      <div class="profile-info ml-4">
+      <div class="col-sm-9">
         <h1 class="post-title">
           {{ site.first_name }} {{ site.last_name }}
         </h1>
-        <h2 class="post-title">{{ site.current_status }}</h2>
-        <h2 class="post-title">{{ site.affiliation }}</h2>
-        <h2 class="post-title">{{ site.office }}</h2>
-        <h2 class="post-title">{{ site.email_contact }}</h2>
-        <div class="contact-icons mt-2">
-          <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
-          <span class="divider" style="margin: 0 5px;"></span>
-          <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-          <span class="divider" style="margin: 0 5px;"></span>
-          <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
-          <!-- Add more social icons as needed -->
+        <p class="desc">
+          <br> {{ site.current_status }}
+          <br> {{ site.affiliation }}
+          <br> {{ site.office }}
+          <br> {{ site.email_contact }}
+        </p>
+        <div class="social-small">
+          <div class="contact-icons">
+            <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+            <span class="divider" style="margin: 0 5px;"></span>
+            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+            <span class="divider" style="margin: 0 5px;"></span>
+            <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
+            <!-- Add more social icons as needed -->
+          </div>
         </div>
       </div>
     </div>
