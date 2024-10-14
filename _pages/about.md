@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-I am a first-year PhD student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Yulun Zhang](https://yulunzhang.com/) and Prof. [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/). Previously, I received my bachelor degree from SJTU in 2022.
+I am a first-year PhD student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Yulun Zhang](https://yulunzhang.com/) and Prof. [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/). Previously, I received my bachelor degree from SJTU in 2024.
 
 My research interest is model compression and image quality assessment.
 

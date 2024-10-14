@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Kai Liu's homepage (刘楷个人主页) # the website title (if blank, full name will be used instead)
+title: Kai Liu 刘楷 # the website title (if blank, full name will be used instead)
 first_name: Kai
-middle_name: R.
+middle_name:
 last_name: Liu
 email: kai_liu@sjtu.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -16,7 +16,7 @@ footer_text: >
 keywords: KaiLiu # jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ✌️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Kai-Liu001.github.io # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -54,7 +54,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: False
 socials_in_search: true
 bib_search: true
 
@@ -118,7 +118,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If there is any need, please contact me by email (kai_liu@sjtu.edu.cn). I will check my email every day.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -210,7 +210,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -318,8 +318,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Liu]
+  first_name: [Kai]
 
   style: apa
   locale: en
