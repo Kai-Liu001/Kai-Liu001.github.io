@@ -9,7 +9,7 @@ layout: default
       <div class="profile float-left">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          <img src="{{ profile_image_path }}" alt="Profile image" class="rounded-circle img-fluid profile-img" style="width: 150px; height: 150px; object-fit: cover;">
+          <img src="{{ profile_image_path }}" alt="Profile image" class="img-fluid profile-img" style="width: 150px; height: 150px; object-fit: cover;">
         {% endif %}
       </div>
       <!-- Name and Title -->
