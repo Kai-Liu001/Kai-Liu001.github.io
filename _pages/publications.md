@@ -15,6 +15,8 @@ nav_order: 2
 
 <div class="publications">
 
+\* Corresponding Author(s)
+
 {% bibliography %}
 
 </div>
