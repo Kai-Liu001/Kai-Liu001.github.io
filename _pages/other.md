@@ -28,10 +28,11 @@ nav_order: 5
 
 Conference Reviewer
 
+- Advances in Neural Information Processing Systems (NeurIPS), 2024,2025
+- International Conference on Computer Vision (ICCV), 2025
 - International Conference on Machine Learning (ICML), 2025
 - Artificial Intelligence and Statistics (AISTATS), 2025
 - International Conference on Learning Representations (ICLR), 2025
-- Advances in Neural Information Processing Systems (NeurIPS), 2024
 
 Journal Reviewer
 
