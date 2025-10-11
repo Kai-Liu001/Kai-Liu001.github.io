@@ -6,6 +6,7 @@ nav: true
 nav_order: 5
 ---
 ## **Honors**
+- National Scholarship for Doctoral Students. 博士生国家奖学金 (2025)
 - Honors Program entrance scholarship. 致远入学奖学金 (2024)
 - Excellent Graduate of University. 优秀毕业生 (2024)
 - Shaoqiu “Medicine + X” Innovation Scholarship. “绍裘”医+X 创新奖学金 (2024)
@@ -32,9 +33,9 @@ Conference Reviewer
 - Advances in Neural Information Processing Systems (NeurIPS), 2024,2025
 - International Conference on Computer Vision (ICCV), 2025
 - International Conference on Machine Learning (ICML), 2025
-- International Conference on Learning Representations (ICLR), 2025
+- International Conference on Learning Representations (ICLR), 2025, 2026
 - Artificial Intelligence and Statistics (AISTATS), 2025
-- Winter Conference on Applications of Computer Vision (WACV), 2025
+- Winter Conference on Applications of Computer Vision (WACV), 2025，2026
 - Pattern Recognition and Computer Vision (PRCV), 2025
 
 Journal Reviewer
@@ -57,6 +58,7 @@ Workshop Co-Organizer
 
 #### Teaching Assistant
 
+- AI1003: Artificial Intelligence Technology and Frontier Applications, SJTU, Fall 2025-2026. Instructor: Prof. Yulun Zhang
 - JCCX0023: Cross Application of Artificial Intelligence, SJTU, Spring 2024-2025. Instructor: Prof. Yulun Zhang
 - CS1581H: Program Design (Honor), SJTU, Fall 2022-2024. Instructor: Prof. Liang Hu
 - CS1501: Program Design Ideas and Methods, SJTU, Fall 2021. Instructor: Prof. Liang Hu
