@@ -30,20 +30,26 @@ nav_order: 5
 
 Conference Reviewer
 
-- Advances in Neural Information Processing Systems (NeurIPS), 2024,2025
+- Advances in Neural Information Processing Systems (NeurIPS), 2024,2025,2026
 - International Conference on Computer Vision (ICCV), 2025
-- International Conference on Machine Learning (ICML), 2025
-- International Conference on Learning Representations (ICLR), 2025, 2026
-- Artificial Intelligence and Statistics (AISTATS), 2025
-- Winter Conference on Applications of Computer Vision (WACV), 2025，2026
+- European Conference on Computer Vision (ECCV), 2026
+- International Conference on Machine Learning (ICML), 2025,2026
+- Association for the Advancement of Artificial Intelligence (AAAI), 2027
+- International Conference on Learning Representations (ICLR), 2025,2026,2027
+- Artificial Intelligence and Statistics (AISTATS), 2025,2026
+- Winter Conference on Applications of Computer Vision (WACV), 2025,2026,2027
 - Pattern Recognition and Computer Vision (PRCV), 2025
 
 Journal Reviewer
 
 - Jordanian Journal of Computers and Information Technology (JJCIT)
+- Transactions on Machine Learning Research (TMLR)
+- IEEE Transactions on Multimedia (TMM)
+
 
 Workshop Co-Organizer
 
+- New Trends in Image Restoration and Enhancement workshop (NTIRE),[[SR](https://ntire-sr.github.io/), [Face](https://ntire-face.github.io/), [InfraredSR](https://github.com/Kai-Liu001/NTIRE2026_infraredSR), [MobileSR](https://gobunu.github.io/ntire_mobile_sr/)] CVPR 2026
 - New Trends in Image Restoration and Enhancement workshop (NTIRE),[[SR](https://ntire-sr.github.io/), [Face](https://ntire-face.github.io/)], CVPR 2025
 
 <div style="margin-bottom: 20px;"></div>
@@ -58,6 +64,7 @@ Workshop Co-Organizer
 
 #### Teaching Assistant
 
+- CS1955: Introduction to Computer Science, SJTU, Spring 2025-2026. Instructor: Prof. Yulun Zhang
 - AI1003: Artificial Intelligence Technology and Frontier Applications, SJTU, Fall 2025-2026. Instructor: Prof. Yulun Zhang
 - JCCX0023: Cross Application of Artificial Intelligence, SJTU, Spring 2024-2025. Instructor: Prof. Yulun Zhang
 - CS1581H: Program Design (Honor), SJTU, Fall 2022-2024. Instructor: Prof. Liang Hu
